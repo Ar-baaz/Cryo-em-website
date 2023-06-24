@@ -204,8 +204,8 @@ body {
   text-align: justify;
 }
 
-.about-model{
-  /* width: 30%; */
+/* .about-model{
+  width: 30%;
   position: absolute;
   right: 7%;
   flex: 1;
@@ -214,4 +214,4 @@ body {
 model-viewer{
   width: 300px;
   height: 300px;
-}
+} */
