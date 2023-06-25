@@ -8,5 +8,3 @@ menuIcon.addEventListener('click', () => {
     navbg.classList.toggle('active');
 });
 
-
-  
