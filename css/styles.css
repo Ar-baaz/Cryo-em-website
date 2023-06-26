@@ -288,4 +288,15 @@ body {
 
 }
 
+.mainsliderDiv{
+  /* width: 40%; */
+  height: auto;
+  border: 2px solid green;
+}
+
+.owl-carousel-award{
+  display: flex;
+  width: 100%;
+}
+
 
